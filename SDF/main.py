@@ -1,5 +1,4 @@
-#THIS IS TEST-DEV1 REPO>change1>change2
-
+#THIS IS TEST-DEV1 REPO>change1
 from os import access
 from flask import Flask, render_template, request, redirect, url_for, session,abort
 from flask_mysqldb import MySQL
